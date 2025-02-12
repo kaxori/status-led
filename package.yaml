@@ -1,0 +1,3 @@
+name: status-led
+description: Visualise system state with animated LED.
+version: v1.0.0
